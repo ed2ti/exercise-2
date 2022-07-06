@@ -12,8 +12,6 @@ $confirmPassword    = $_REQUEST['confirmPassword'];
 
 // Checking passwords //
 if($password!=$confirmPassword){
-  //echo 'password'.$password.'<br>';
-  //echo 'confirmPassword'.$confirmPassword.'<br>';
   header('Location: index.php?error=login');die();
 }else{
   /** DATABASE CONFIG **/
