@@ -8,4 +8,4 @@ Objective: Using a MariaDB database, create a simple PHP program to:
 
 We are using in this example some technologies like HTML5, CSS3, PHP and MySQL(MariaDB)
 
-## CREDITS -> FREE FROM -> http://w3layouts.com/
+## CREDITS -> FREE FORM -> http://w3layouts.com/
